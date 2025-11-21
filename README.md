@@ -17,11 +17,11 @@ aboutme():
 
     print("🇲🇽 MEXICAN 🇲🇽")
     pronouns= "He/him"
-    age=22
+    age=26
     code=["Python","Java","C","C++","Javascript","HTML","CSS"]
     database="SQL"
     tools=["Node","Azure","AWS","VUE"]
     os=["Linux","Windows"]
-    areas=["Data", "web development", "Cloud"]
+    areas=["Data", "web development", "Cloud", "Linux Server"]
  ```
  <img src="https://www.gratistodo.com/wp-content/uploads/2021/12/Gifs-Naruto-4.gif" width="60"> <em><b> "The child I was, would be proud of me"</b> </em>
